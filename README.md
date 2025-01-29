@@ -1,6 +1,6 @@
 # uRun - Bypass bookmarklet restrictions with an adblocker
 ## Why
-Recently Google, cracked down on bookmarklets and now they don't work (Its based on the [DeveloperToolsAvailability](https://chromeenterprise.google/policies/?policy=DeveloperToolsAvailability) policy). I wanted to run scripts still so I started making this, inspired by [3kh0/Ext-Remover's uBlock exploit](https://github.com/3kh0/Ext-Remover?tab=readme-ov-file#ublock-run-run-code-on-pages), but with more features, like saving scripts.
+Recently Google, cracked down on bookmarklets and now they don't work (Its based on the [DeveloperToolsAvailability](https://chromeenterprise.google/policies/?policy=DeveloperToolsAvailability) policy). I wanted to run scripts still so I started making this, inspired by [3kh0/Ext-Remover's uBlock exploit](https://github.com/3kh0/Ext-Remover?tab=readme-ov-file#ublock-run-run-code-on-pages), but with more features, like saving scripts. I have this forked because Inglan2 took the website down, so I'm rehosting it.
 ## Installation
 1. Open uBlock settings
 2. Enable advanced settings, and click the gear ⚙️ button
