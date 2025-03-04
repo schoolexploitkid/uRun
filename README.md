@@ -19,7 +19,7 @@ Recently Google, cracked down on bookmarklets and now they don't work (Its based
 > ```
 > to
 > ```
-> userResourcesLocation schoolexploitkid.github.io/uRun/urun.js
+> userResourcesLocation https://schoolexploitkid.github.io/uRun/urun.js
 > ```
 
 > [!TIP]
